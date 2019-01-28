@@ -14216,7 +14216,6 @@
                     "parameters": [
                         {
                             "name": "requestId",
-https://github.com/andrewvy/chrome-remote-interface                            "description": "Each request the page makes will have a unique id.",
                             "$ref": "RequestId"
                         },
                         {
